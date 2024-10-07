@@ -1,0 +1,64 @@
+
+HTML Course Syllabus
+--------------------------------------------------------------------------------------------------------------------------------------
+Module 1: Introduction to HTML
+--------------------------------------------------------------------------------------------------------------------------------------
+1.1 - Introduction to HTML: What is HTML, Importance of HTML
+1.2 - Basic Structure of HTML Document: <!DOCTYPE>, <html>, <head>, <title>, <body>
+1.3 - HTML Tags: Block-level elements vs Inline elements
+1.4 - Common HTML Tags: <p>, <h1>-<h6>, <a>, <img>, <div>, <span>, <br>, <hr>
+1.5 - HTML Attributes: Global attributes, Custom attributes
+1.6 - Semantic HTML: <header>, <nav>, <section>, <article>, <footer>, <aside>
+--------------------------------------------------------------------------------------------------------------------------------------
+Module 2: HTML Text Formatting
+--------------------------------------------------------------------------------------------------------------------------------------
+2.1 - Paragraphs and Headings: <p>, <h1>-<h6>
+2.2 - Text Formatting: <b>, <i>, <u>, <strong>, <em>, <mark>, <small>, <sub>, <sup>
+2.3 - Lists: Ordered lists (<ol>), Unordered lists (<ul>), Definition lists (<dl>), List items (<li>, <dt>, <dd>)
+2.4 - Links and Anchors: <a href>, Opening links in a new tab, Linking within the page (anchor links)
+--------------------------------------------------------------------------------------------------------------------------------------
+Module 3: HTML Images and Multimedia
+--------------------------------------------------------------------------------------------------------------------------------------
+3.1 - Adding Images: <img src>, Alt attribute, Image formats (JPEG, PNG, GIF)
+3.2 - Image Maps: <map>, <area>, Creating clickable regions on an image
+3.3 - Embedding Videos: <video>, <source>, Embedding from YouTube
+3.4 - Audio Embedding: <audio>, <source>, Controls attribute
+3.5 - Iframes: <iframe>, Embedding content from other websites
+--------------------------------------------------------------------------------------------------------------------------------------
+Module 4: HTML Forms
+--------------------------------------------------------------------------------------------------------------------------------------
+4.1 - Creating Forms: <form>, Action and Method attributes (GET and POST)
+4.2 - Input Types: <input>, Text, Password, Email, Number, Date, File, etc.
+4.3 - Text Area and Select: <textarea>, <select>, <option>, Dropdown menus
+4.4 - Form Elements: Radio buttons (<input type="radio">), Checkboxes (<input type="checkbox">)
+4.5 - Buttons and Submit: <button>, <input type="submit">
+4.6 - Form Validation: Required fields, Pattern attribute, Form attributes for validation
+--------------------------------------------------------------------------------------------------------------------------------------
+Module 5: HTML Tables
+--------------------------------------------------------------------------------------------------------------------------------------
+5.1 - Creating Tables: <table>, <tr>, <th>, <td>, Table headings and data cells
+5.2 - Table Attributes: Border, Cell padding, Cell spacing, Width and Height
+5.3 - Merging Cells: Rowspan, Colspan
+5.4 - Styling Tables with CSS
+--------------------------------------------------------------------------------------------------------------------------------------
+Module 6: HTML5 New Elements and Features
+--------------------------------------------------------------------------------------------------------------------------------------
+6.1 - New HTML5 Semantic Elements: <article>, <aside>, <details>, <figcaption>, <figure>, <footer>, <header>, <main>, <mark>, <nav>, <section>, <summary>, <time>
+6.2 - HTML5 Forms Enhancements: New Input types (Email, URL, Date, Time, Range), Placeholder attribute, Autofocus, Required fields
+6.3 - HTML5 Audio/Video Enhancements: Native support for <audio> and <video>, Source elements
+6.4 - HTML5 Canvas: Introduction to <canvas> for drawing graphics
+6.5 - HTML5 Local Storage and Session Storage: Storing data on the client-side, API usage
+--------------------------------------------------------------------------------------------------------------------------------------
+Module 7: HTML Best Practices and Accessibility
+--------------------------------------------------------------------------------------------------------------------------------------
+7.1 - Writing Clean and Maintainable HTML: Proper nesting, Code indentation, Readable attribute naming
+7.2 - HTML Validation: Using the W3C HTML Validator to check for syntax errors
+7.3 - Accessibility Considerations: Using ARIA attributes, Alt text for images, Labeling form elements
+7.4 - SEO Best Practices: Using Meta tags, Structuring content for search engines, Proper use of headings
+--------------------------------------------------------------------------------------------------------------------------------------
+Module 8: HTML Project
+--------------------------------------------------------------------------------------------------------------------------------------
+8.1 - Build a complete multi-page website using HTML
+8.2 - Implement forms, tables, multimedia elements
+8.3 - Apply HTML5 features like local storage, canvas, and semantic elements
+--------------------------------------------------------------------------------------------------------------------------------------
